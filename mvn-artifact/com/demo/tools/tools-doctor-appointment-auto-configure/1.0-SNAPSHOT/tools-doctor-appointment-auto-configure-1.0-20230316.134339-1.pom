@@ -36,7 +36,7 @@
     <repositories>
         <repository>
             <id>doctor-appointment-platform-artifactory</id>
-            <url>https://github.com/${repository-owner}/${repository-name}/${branch-name}</url>
+            <url>https://github.com/${repository-owner}/${repository-name}</url>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>always</updatePolicy>
@@ -80,7 +80,6 @@
                     <includes>
                         <include>**/*</include>
                     </includes>
-                    <merge>true</merge>
                     <repositoryName>${repository-name}</repositoryName>
                     <repositoryOwner>${repository-owner}</repositoryOwner>
                     <server>github</server>
