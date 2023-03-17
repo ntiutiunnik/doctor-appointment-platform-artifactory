@@ -3,27 +3,27 @@
   <groupId>com.demo.tools</groupId>
   <artifactId>tools-doctor-appointment-auto-configure</artifactId>
   <versioning>
-    <lastUpdated>20230317123119</lastUpdated>
+    <lastUpdated>20230317125555</lastUpdated>
     <snapshot>
-      <timestamp>20230317.123119</timestamp>
+      <timestamp>20230317.125555</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20230317.123119-1</value>
-        <updated>20230317123119</updated>
+        <value>1.0-20230317.125555-1</value>
+        <updated>20230317125555</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20230317.123119-1</value>
-        <updated>20230317123119</updated>
+        <value>1.0-20230317.125555-1</value>
+        <updated>20230317125555</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.0-20230317.123119-1</value>
-        <updated>20230317123119</updated>
+        <value>1.0-20230317.125555-1</value>
+        <updated>20230317125555</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
