@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.demo.tools</groupId>
-  <artifactId>tools-doctor-appointment-auto-configure</artifactId>
+  <groupId>com.demo</groupId>
+  <artifactId>doctor-appointment-spring-boot-starter</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20230317072719</lastUpdated>
+    <lastUpdated>20230317075852</lastUpdated>
   </versioning>
 </metadata>
