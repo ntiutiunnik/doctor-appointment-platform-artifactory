@@ -1,1 +1,7 @@
-C:\Users\Senla-PC-029\IdeaProjects\doctor-appointment-platform\doctor-appointment-spring-boot-starter\src\main\java\com\demo\Main.java
+C:\Users\Senla-PC-029\IdeaProjects\doctor-appointment-platform\tools-doctor-appointment-auto-configure\src\main\java\com\demo\tools\doctorappointment\autoconfigure\api\ExceptionResponseProcessor.java
+C:\Users\Senla-PC-029\IdeaProjects\doctor-appointment-platform\tools-doctor-appointment-auto-configure\src\main\java\com\demo\tools\doctorappointment\autoconfigure\exception\CustomCrudException.java
+C:\Users\Senla-PC-029\IdeaProjects\doctor-appointment-platform\tools-doctor-appointment-auto-configure\src\main\java\com\demo\tools\doctorappointment\autoconfigure\util\api\RestParams.java
+C:\Users\Senla-PC-029\IdeaProjects\doctor-appointment-platform\tools-doctor-appointment-auto-configure\src\main\java\com\demo\tools\doctorappointment\autoconfigure\api\ControllerAdvice.java
+C:\Users\Senla-PC-029\IdeaProjects\doctor-appointment-platform\tools-doctor-appointment-auto-configure\src\main\java\com\demo\tools\doctorappointment\autoconfigure\util\exception\ExceptionTokenizer.java
+C:\Users\Senla-PC-029\IdeaProjects\doctor-appointment-platform\tools-doctor-appointment-auto-configure\src\main\java\com\demo\tools\doctorappointment\autoconfigure\exception\ResourceNotFoundException.java
+C:\Users\Senla-PC-029\IdeaProjects\doctor-appointment-platform\tools-doctor-appointment-auto-configure\src\main\java\com\demo\tools\doctorappointment\autoconfigure\exception\ErrorDetails.java
